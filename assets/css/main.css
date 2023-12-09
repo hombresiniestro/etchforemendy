@@ -9,8 +9,9 @@ html {
 body {
     font-size: 16px;
     font-size: 1.6rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: #313a3d;
+    font-family: "Concourse", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: black;
+    background: #BFB2A3;
     width: 100%;
     margin: 0 auto;
     padding: 0 16px;
@@ -23,7 +24,7 @@ header#banner {
 }
 
 header#banner a {
-    color: #313a3d;
+    color: #033E8C;
     text-decoration: none;
 }
 
@@ -60,7 +61,7 @@ header#banner nav ul li a {
 }
 
 main#content a {
-    color: #007dfa;
+    color: white;
     text-decoration: none;
 }
 
@@ -93,14 +94,14 @@ main#content h6 + p {
 }
 
 main#content p {
-    color: #394548;
+    color: black;
     margin: 16px 0;
 }
 
 main#content hr {
     height: 1px;
     border: 0;
-    background: #d8d8d8;
+    background: #D9A404;
 }
 
 main#content abbr {
@@ -123,7 +124,7 @@ main#content ul#posts li {
 
 main#content ul#posts small {
     font-size: 0.8em;
-    color: #767676;
+    color: #8C5C03;
     margin-left: 10px;
 }
 
@@ -132,7 +133,7 @@ main#content ul#posts li a {
 }
 
 main#content ul#posts li a:hover {
-    color: #369aff;
+    color: #D9A404;
 }
 
 main#content ul#posts li a:hover small {
